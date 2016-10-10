@@ -1,0 +1,39 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+h1{
+	
+font-family: 'Open Sans', sans-serif;
+text-align: center; 
+
+}
+
+h3{
+font-family: 'Open Sans', sans-serif;
+text-align: center; 
+
+
+}
+
+
+
+
+table {
+
+margin: auto;
+
+}
+
+#triqui td 
+
+{
+
+border: thin solid black; 
+font-size: 20px;
+height: 100px;
+width: 	100px;
+padding: auto;
+background: blue;
+
+} 
+
+
